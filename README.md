@@ -1,5 +1,6 @@
 # Clustering-de-Estudiantes-Desempe-o-Acad-mico
 🎓 Clustering de Estudiantes: Análisis de Desempeño Académico
+
 ¡Hola! 👋 Este es un proyecto desarrollado en pareja donde exploramos el Student Performance Dataset para identificar grupos de estudiantes con comportamientos similares. El objetivo principal fue aplicar técnicas de aprendizaje no supervisado para entender qué factores influyen realmente en el éxito académico.
 
 🚀 El Reto
