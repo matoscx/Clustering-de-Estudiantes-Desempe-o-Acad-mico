@@ -1,22 +1,24 @@
 # Clustering-de-Estudiantes-Desempe-o-Acad-mico
-Clustering de Estudiantes: Análisis de Desempeño Académico
-Este proyecto presenta un análisis de segmentación de datos aplicado al ámbito educativo. Utilizando el "Student Performance Dataset", el objetivo principal fue identificar patrones y grupos de estudiantes basados en sus características socioeconómicas, hábitos de estudio y resultados académicos.
+🎓 Clustering de Estudiantes: Análisis de Desempeño Académico
+¡Hola! 👋 Este es un proyecto desarrollado en pareja donde exploramos el Student Performance Dataset para identificar grupos de estudiantes con comportamientos similares. El objetivo principal fue aplicar técnicas de aprendizaje no supervisado para entender qué factores influyen realmente en el éxito académico.
 
-El trabajo fue desarrollado como un reto de aprendizaje no supervisado por el Grupo 3.
+🚀 El Reto
+¿Se puede predecir el rendimiento basándose en hábitos sociales y familiares? En este notebook, nos propusimos agrupar a los estudiantes no solo por sus notas, sino por su contexto: consumo de alcohol, tiempo de estudio, apoyo familiar y más.
 
-El Problema
-El rendimiento escolar no depende únicamente de las horas de estudio. Factores como el entorno familiar, el consumo de alcohol en tiempo de ocio y el apoyo educativo influyen directamente en los resultados. El propósito de este notebook es agrupar a los estudiantes de manera automática para entender mejor estos perfiles.
+🛠️ Lo que hicimos
+Limpieza de datos: Tratamos el dataset para que los modelos de Machine Learning pudieran "entenderlo" bien.
 
-Proceso de Desarrollo
-Preparación de datos: Limpieza y transformación de variables categóricas para el modelado.
+Análisis Exploratorio (EDA): Visualizamos las correlaciones más curiosas (¿influye realmente salir mucho los fines de semana en la nota final?).
 
-Análisis Exploratorio: Identificación de las variables con mayor impacto en el rendimiento final.
+Modelado: Implementamos algoritmos de clustering (como K-Means) para segmentar la población estudiantil.
 
-Algoritmos de Clustering: Implementación y evaluación de modelos (K-Means) para la creación de segmentos.
+Interpretación: No solo sacamos números, sino que intentamos darle un "nombre" a cada grupo de estudiantes hallado.
 
-Resultados: Interpretación de los grupos hallados y sus características distintivas.
+📦 Tecnologías utilizadas
+Python 🐍
 
-Herramientas Utilizadas
-Lenguaje: Python
+Pandas & Numpy para el manejo de datos.
 
-Librerías principales: Pandas, NumPy, Matplotlib, Seaborn y Scikit-learn.
+Matplotlib & Seaborn para las gráficas.
+
+Scikit-learn para la magia del clustering.
