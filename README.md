@@ -16,6 +16,7 @@ Modelado: Implementamos algoritmos de clustering (como K-Means) para segmentar l
 Interpretación: No solo sacamos números, sino que intentamos darle un "nombre" a cada grupo de estudiantes hallado.
 
 📦 Tecnologías utilizadas
+
 Python 🐍
 
 Pandas & Numpy para el manejo de datos.
